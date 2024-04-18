@@ -36,8 +36,8 @@ public class App {
         }
         generateOutput(statisticsCalculator);
 
-        long endTime = System.nanoTime(); // End timing
-        long duration = (endTime - startTime) / 1_000_000; // Convert to milliseconds
+        long endTime = System.nanoTime();
+        long duration = (endTime - startTime) / 1_000_000;
         logger.info("Time taken with " + THREAD_POOL_SIZE + " threads: " + duration + " ms");
     }
 
