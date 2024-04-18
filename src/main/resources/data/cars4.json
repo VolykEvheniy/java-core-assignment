@@ -1,0 +1,128 @@
+[
+  {
+    "model": "208",
+    "year": 2022,
+    "brand": "Peugeot",
+    "color": "Blue",
+    "price": 15000.00
+  },
+  {
+    "model": "Clio",
+    "year": 2021,
+    "brand": "Renault",
+    "color": "Red, White",
+    "price": 14000.00
+  },
+  {
+    "model": "DS 3",
+    "year": 2020,
+    "brand": "Citroën",
+    "color": "Black, Silver",
+    "price": 19000.00
+  },
+  {
+    "model": "308",
+    "year": 2019,
+    "brand": "Peugeot",
+    "color": "White, Blue, Red",
+    "price": 18000.00
+  },
+  {
+    "model": "Megane",
+    "year": 2018,
+    "brand": "Renault",
+    "color": "Green, Black",
+    "price": 16000.00
+  },
+  {
+    "model": "C4 Picasso",
+    "year": 2017,
+    "brand": "Citroën",
+    "color": "Silver, Red, Blue",
+    "price": 22000.00
+  },
+  {
+    "model": "2008",
+    "year": 2016,
+    "brand": "Peugeot",
+    "color": "Gray, White",
+    "price": 17000.00
+  },
+  {
+    "model": "Scenic",
+    "year": 2015,
+    "brand": "Renault",
+    "color": "Blue, Black, White",
+    "price": 21000.00
+  },
+  {
+    "model": "DS 5",
+    "year": 2014,
+    "brand": "Citroën",
+    "color": "Black, Gray",
+    "price": 25000.00
+  },
+  {
+    "model": "Clio",
+    "year": 2022,
+    "brand": "Renault",
+    "color": "Red",
+    "price": 18500.00
+  },
+  {
+    "model": "208",
+    "year": 2020,
+    "brand": "Peugeot",
+    "color": "Blue, White",
+    "price": 17000.00
+  },
+  {
+    "model": "C3",
+    "year": 2019,
+    "brand": "Citroën",
+    "color": "Black, Silver, Red",
+    "price": 16000.00
+  },
+  {
+    "model": "Megane",
+    "year": 2018,
+    "brand": "Renault",
+    "color": "Blue, Grey",
+    "price": 22000.00
+  },
+  {
+    "model": "3008",
+    "year": 2017,
+    "brand": "Peugeot",
+    "color": "White",
+    "price": 24000.00
+  },
+  {
+    "model": "DS7 Crossback",
+    "year": 2021,
+    "brand": "Citroën",
+    "color": "Beige, Black",
+    "price": 35000.00
+  },
+  {
+    "model": "Zoe",
+    "year": 2022,
+    "brand": "Renault",
+    "color": "Silver, Blue, White",
+    "price": 33000.00
+  },
+  {
+    "model": "508",
+    "year": 2016,
+    "brand": "Peugeot",
+    "color": "Black, Red",
+    "price": 29000.00
+  },
+  {
+    "model": "C4",
+    "year": 2015,
+    "brand": "Citroën",
+    "color": "Grey",
+    "price": 21000.00
+  }
+]

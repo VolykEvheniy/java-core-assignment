@@ -1,0 +1,86 @@
+[
+  {
+    "model": "Camry",
+    "year": 2022,
+    "brand": "Toyota",
+    "color": "White, Black",
+    "price": 25000.00
+  },
+  {
+    "model": "Accord",
+    "year": 2021,
+    "brand": "Honda",
+    "color": "Red, Grey",
+    "price": 24000.00
+  },
+  {
+    "model": "Altima",
+    "year": 2020,
+    "brand": "Nissan",
+    "color": "Blue, Silver",
+    "price": 23000.00
+  },
+  {
+    "model": "CX-5",
+    "year": 2019,
+    "brand": "Mazda",
+    "color": "Red, Black, White",
+    "price": 27000.00
+  },
+  {
+    "model": "Corolla",
+    "year": 2018,
+    "brand": "Toyota",
+    "color": "Blue, Grey",
+    "price": 19000.00
+  },
+  {
+    "model": "Civic",
+    "year": 2017,
+    "brand": "Honda",
+    "color": "Black, White",
+    "price": 18500.00
+  },
+  {
+    "model": "Sentra",
+    "year": 2016,
+    "brand": "Nissan",
+    "color": "White, Red",
+    "price": 16000.00
+  },
+  {
+    "model": "MX-5",
+    "year": 2015,
+    "brand": "Mazda",
+    "color": "Black, Silver",
+    "price": 25000.00
+  },
+  {
+    "model": "Prius",
+    "year": 2014,
+    "brand": "Toyota",
+    "color": "Green, White",
+    "price": 22000.00
+  },
+  {
+    "model": "Fit",
+    "year": 2013,
+    "brand": "Honda",
+    "color": "Blue, Black",
+    "price": 15000.00
+  },
+  {
+    "model": "370Z",
+    "year": 2012,
+    "brand": "Nissan",
+    "color": "Red, White",
+    "price": 30000.00
+  },
+  {
+    "model": "3",
+    "year": 2011,
+    "brand": "Mazda",
+    "color": "Silver, Grey",
+    "price": 18000.00
+  }
+]

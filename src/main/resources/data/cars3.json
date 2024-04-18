@@ -1,0 +1,184 @@
+[
+  {
+    "model": "3 Series",
+    "year": 2022,
+    "brand": "BMW",
+    "color": "Black",
+    "price": 41000.00
+  },
+  {
+    "model": "A4",
+    "year": 2021,
+    "brand": "Audi",
+    "color": "Red, Black",
+    "price": 39000.00
+  },
+  {
+    "model": "C-Class",
+    "year": 2020,
+    "brand": "Mercedes-Benz",
+    "color": "Blue, White, Gray",
+    "price": 42000.00
+  },
+  {
+    "model": "Golf",
+    "year": 2019,
+    "brand": "Volkswagen",
+    "color": "White, Green, Black",
+    "price": 23000.00
+  },
+  {
+    "model": "X5",
+    "year": 2018,
+    "brand": "BMW",
+    "color": "Gray, Black, White",
+    "price": 58000.00
+  },
+  {
+    "model": "TT",
+    "year": 2017,
+    "brand": "Audi",
+    "color": "Silver",
+    "price": 45000.00
+  },
+  {
+    "model": "E-Class",
+    "year": 2016,
+    "brand": "Mercedes-Benz",
+    "color": "Black, Red",
+    "price": 50000.00
+  },
+  {
+    "model": "Beetle",
+    "year": 2015,
+    "brand": "Volkswagen",
+    "color": "Blue, Yellow",
+    "price": 20000.00
+  },
+  {
+    "model": "7 Series",
+    "year": 2014,
+    "brand": "BMW",
+    "color": "Black, Silver, Red",
+    "price": 68000.00
+  },
+  {
+    "model": "Q7",
+    "year": 2013,
+    "brand": "Audi",
+    "color": "White, Blue",
+    "price": 55000.00
+  },
+  {
+    "model": "SLK",
+    "year": 2012,
+    "brand": "Mercedes-Benz",
+    "color": "Gray",
+    "price": 48000.00
+  },
+  {
+    "model": "Touareg",
+    "year": 2011,
+    "brand": "Volkswagen",
+    "color": "Silver, Black",
+    "price": 44000.00
+  },
+  {
+    "model": "M3",
+    "year": 2010,
+    "brand": "BMW",
+    "color": "Red, White, Blue",
+    "price": 60000.00
+  },
+  {
+    "model": "A8",
+    "year": 2009,
+    "brand": "Audi",
+    "color": "Black",
+    "price": 75000.00
+  },
+  {
+    "model": "CLS",
+    "year": 2008,
+    "brand": "Mercedes-Benz",
+    "color": "Blue, Black, White",
+    "price": 70000.00
+  },
+  {
+    "model": "Polo",
+    "year": 2007,
+    "brand": "Volkswagen",
+    "color": "Green, White",
+    "price": 15000.00
+  },
+  {
+    "model": "Z4",
+    "year": 2006,
+    "brand": "BMW",
+    "color": "Red, Black, Silver",
+    "price": 35000.00
+  },
+  {
+    "model": "R8",
+    "year": 2005,
+    "brand": "Audi",
+    "color": "Blue",
+    "price": 110000.00
+  },
+  {
+    "model": "S-Class",
+    "year": 2004,
+    "brand": "Mercedes-Benz",
+    "color": "Black, Gray",
+    "price": 90000.00
+  },
+  {
+    "model": "Passat",
+    "year": 2003,
+    "brand": "Volkswagen",
+    "color": "White, Silver, Blue",
+    "price": 25000.00
+  },
+  {
+    "model": "5 Series",
+    "year": 2002,
+    "brand": "BMW",
+    "color": "Black, Red",
+    "price": 30000.00
+  },
+  {
+    "model": "S3",
+    "year": 2001,
+    "brand": "Audi",
+    "color": "Blue, Black, White",
+    "price": 22000.00
+  },
+  {
+    "model": "SL",
+    "year": 2000,
+    "brand": "Mercedes-Benz",
+    "color": "Silver, Black",
+    "price": 85000.00
+  },
+  {
+    "model": "Jetta",
+    "year": 1999,
+    "brand": "Volkswagen",
+    "color": "Green, Blue",
+    "price": 16000.00
+  },
+  {
+    "model": "1 Series",
+    "year": 1998,
+    "brand": "BMW",
+    "color": "White, Red, Black",
+    "price": 20000.00
+  },
+  {
+    "model": "A6",
+    "year": 1997,
+    "brand": "Audi",
+    "color": "Gray, Silver, Blue",
+    "price": 28000.00
+  }
+]

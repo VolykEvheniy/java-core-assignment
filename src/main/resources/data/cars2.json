@@ -1,0 +1,37 @@
+[
+  {
+    "model": "Model S",
+    "year": 2022,
+    "brand": "Tesla",
+    "color": "Red, Black, White",
+    "price": 79990.00
+  },
+  {
+    "model": "Model 3",
+    "year": 2022,
+    "brand": "Tesla",
+    "color": "Blue, White, Gray",
+    "price": 41990.00
+  },
+  {
+    "model": "Model X",
+    "year": 2021,
+    "brand": "Tesla",
+    "color": "White, Silver, Black",
+    "price": 89990.00
+  },
+  {
+    "model": "Model Y",
+    "year": 2021,
+    "brand": "Tesla",
+    "color": "Black, Red, White",
+    "price": 53990.00
+  },
+  {
+    "model": "Cybertruck",
+    "year": 2023,
+    "brand": "Tesla",
+    "color": "Silver, Black, White",
+    "price": 39990.00
+  }
+]

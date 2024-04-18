@@ -1,0 +1,142 @@
+[
+  {
+    "model": "F-150",
+    "year": 2020,
+    "brand": "Ford",
+    "color": "Blue, White, Gray",
+    "price": 28990.00
+  },
+  {
+    "model": "Mustang",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "Red, Black, White",
+    "price": 35670.00
+  },
+  {
+    "model": "Explorer",
+    "year": 2018,
+    "brand": "Ford",
+    "color": "Black, Silver",
+    "price": 33675.00
+  },
+  {
+    "model": "Fiesta",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "White, Blue, Green",
+    "price": 19530.00
+  },
+  {
+    "model": "Focus",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "Silver, Red, White",
+    "price": 20000.00
+  },
+  {
+    "model": "Edge",
+    "year": 2018,
+    "brand": "Ford",
+    "color": "Red, Gray, Black",
+    "price": 35045.00
+  },
+  {
+    "model": "Escape",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "Blue, Black, White",
+    "price": 26785.00
+  },
+  {
+    "model": "Ranger",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "Gray, Black, Silver",
+    "price": 25415.00
+  },
+  {
+    "model": "Bronco",
+    "year": 2023,
+    "brand": "Ford",
+    "color": "Black, Red",
+    "price": 29995.00
+  },
+  {
+    "model": "Expedition",
+    "year": 2019,
+    "brand": "Ford",
+    "color": "White, Silver, Black, Purple",
+    "price": 49725.00
+  },
+  {
+    "model": "EcoSport",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "Blue, White, Yellow",
+    "price": 21495.00
+  },
+  {
+    "model": "Taurus",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "Black, White, Gray",
+    "price": 30995.00
+  },
+  {
+    "model": "Fusion",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "Red, Silver, Blue",
+    "price": 23210.00
+  },
+  {
+    "model": "Transit",
+    "year": 2020,
+    "brand": "Ford",
+    "color": "White, Black",
+    "price": 35085.00
+  },
+  {
+    "model": "GT",
+    "year": 2017,
+    "brand": "Ford",
+    "color": "Blue, Red, Black",
+    "price": 500000.00
+  },
+  {
+    "model": "Maverick",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "Red, White, Blue",
+    "price": 19995.00
+  },
+  {
+    "model": "Flex",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "Silver, Gray, Black",
+    "price": 40000.00
+  },
+  {
+    "model": "C-Max",
+    "year": 2014,
+    "brand": "Ford",
+    "color": "Green, White, Gray",
+    "price": 24290.00
+  },
+  {
+    "model": "Galaxy",
+    "year": 2022,
+    "brand": "Ford",
+    "color": "Blue, Black, White, Yellow",
+    "price": 35100.00
+  },
+  {
+    "model": "Mondeo",
+    "year": 2015,
+    "brand": "Ford",
+    "color": "Gray, Blue, Red",
+    "price": 27340.00
+  }
+]
